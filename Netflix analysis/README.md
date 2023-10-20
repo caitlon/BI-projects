@@ -14,6 +14,3 @@ Then created a map that defines each country by color based on the total number 
 
 ![Screenshot 2023-02-22 at 13 18 38](https://user-images.githubusercontent.com/85711789/220617753-a4762c94-a858-435e-ad2a-7aa953038858.png)
 
-
-> For quick access you can click on the link: 
-> https://prod-uk-a.online.tableau.com/#/site/kuzmieka/workbooks/291082?:origin=card_share_link
