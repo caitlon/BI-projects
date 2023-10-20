@@ -16,8 +16,3 @@ https://prod-uk-a.online.tableau.com/#/site/kuzmieka/workbooks/290263?:origin=ca
 * Phase 2 contains `Profit Analysis`. Added contextual filters to better display data, analyzing declining sales, and including profit and margin data in addition to revenue data. The new dashboard includes a table and pie chart displaying profit margins for regions.
 
 ![Screenshot 2023-02-22 at 13 14 22](https://user-images.githubusercontent.com/85711789/220617288-760c0523-2c6a-4420-9ab2-bf4e2ef0f435.png)
-
-
-https://prod-uk-a.online.tableau.com/#/site/kuzmieka/workbooks/290245?:origin=card_share_link
-
-> For a quick preview of the files, you can click on the links.
