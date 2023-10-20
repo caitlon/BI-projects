@@ -8,9 +8,6 @@ Project has two phases:
 * Phase 1 contains `Revenue Analysis`. Built three main components of the dashboard: total revenue, sales quantity, and revenue by market. Used normalization amounts to calculate the sum of all sales. The final dashboard is interactive and allows user to view revenue per year and break down revenue by region.
 
 ![Screenshot 2023-02-22 at 13 13 31](https://user-images.githubusercontent.com/85711789/220617054-de60c55c-d59e-43bc-a690-b42312c6a3dd.png)
-
-
-https://prod-uk-a.online.tableau.com/#/site/kuzmieka/workbooks/290263?:origin=card_share_link
     
     
 * Phase 2 contains `Profit Analysis`. Added contextual filters to better display data, analyzing declining sales, and including profit and margin data in addition to revenue data. The new dashboard includes a table and pie chart displaying profit margins for regions.
