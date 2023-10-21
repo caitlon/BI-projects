@@ -12,7 +12,7 @@ This project showcases my skills in data analysis, data cleaning, data transform
 ## Project Structure
 
 ### Business Request: 
-Detailed business request, including the desired outcomes, can be found in the document titled *"Business Request - Mail from Steven.docx"*.
+Detailed business request, including the desired outcomes, can be found in the document titled *"Business Request.docx"*.
 
 ### Database Update: 
 I utilized a script to update the database, ensuring that the data remains current and accurate. This, along with other scripts used for data processing, can be found in the *sql_scripts* folder.
