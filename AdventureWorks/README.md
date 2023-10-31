@@ -27,3 +27,5 @@ This includes understanding the difference between fact and dimension tables, id
 ### Dashboard Creation: 
 Using Power BI, I've created a comprehensive dashboard that provides insights into the data. 
 The dashboard includes various visualizations such as pie charts, line charts, bar charts, map graphs, and more.
+
+![schema](https://github.com/caitlon/BI-projects/assets/85711789/b2ac9219-bbed-4adf-97b5-ccf9ddce3694)
